@@ -12,8 +12,7 @@ that was run in 2015, and precedes the first full evaluation of the DSE series. 
 of the pilot are to:
 
 a) further develop and exercise the evaluation process at NIST in the context of data science,
-b) provide participants the opportunity to exercise the evaluation process prior to participating in
-larger-scale evaluation,
+b) provide the opportunity to exercise in larger-scale evaluation,
 c) serve as an archetype for the development of future evaluation tasks, datasets, and metrics,
 d) establish baseline performance measurements,
 e) bring to the fore new measurement methods and techniques that might be applied to a broad
